@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    " D ",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "D": "minecraft:dropper"
+  },
+  "result": {
+    "id": "minecraft:dispenser",
+    "count": 1
+  }
+}

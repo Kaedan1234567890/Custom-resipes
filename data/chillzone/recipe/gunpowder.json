@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F ",
+    "FCF",
+    " F "
+  ],
+  "key": {
+    "F": "minecraft:flint",
+    "C": "minecraft:charcoal"
+  },
+  "result": {
+    "id": "minecraft:gunpowder",
+    "count": 2
+  }
+}
