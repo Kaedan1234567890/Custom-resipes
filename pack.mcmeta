@@ -1,13 +1,7 @@
 {
   "pack": {
-    "description": "Chill Zone SMP 26.3 - Easy Gaps + Craftable Cobwebs",
-    "min_format": [
-      121,
-      0
-    ],
-    "max_format": [
-      121,
-      0
-    ]
+    "description": "Golden apples cost 4 gold ingots instead of 8",
+    "min_format": 101,
+    "max_format": 130
   }
 }
